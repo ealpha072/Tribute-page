@@ -1,13 +1,18 @@
 h1 {
 	font-family: 'Elephant';
-	font-size: 30px;
+	font-size: 50px;
 	font-weight: bold;
 	text-align: center;
+	display: grid;
 }
 #main {
+	display: grid;
 	background-color: grey;
+}
+#title{
+	text-align: center;
 
 }
 p{
-	display: grid;
+	display: ;
 }
