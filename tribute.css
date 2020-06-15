@@ -1,0 +1,13 @@
+h1 {
+	font-family: 'Elephant';
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+#main {
+	background-color: grey;
+
+}
+p{
+	display: grid;
+}
