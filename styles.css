@@ -2,7 +2,7 @@ html {
   /* Setting a base font size of 10px give us easier rem calculations
      Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
    */
-  font-size: 10px;
+  font-size: 20px;
 }
 
 body {
@@ -16,9 +16,12 @@ body {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 6rem;
   margin-bottom: 0;
   color: black;
+  position: relative;
+  bottom: 10px;
+  
 
 }
 
@@ -73,5 +76,8 @@ li {
   margin: 0 auto 50px auto;
   text-align: left;
   display: grid;
+}
+a:hover{
+  color: black;
 }
 
